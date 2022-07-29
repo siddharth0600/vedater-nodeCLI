@@ -1,0 +1,33 @@
+{
+  "name": "dyte-vit-2022-siddharth0600",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7944556&assignment_repo_type=AssignmentRepo)\r <div id=\"top\"></div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://siddharth0600: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@github.com/dyte-submissions/dyte-vit-2022-siddharth0600.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyte-submissions/dyte-vit-2022-siddharth0600/issues"
+  },
+  "homepage": "https://github.com/dyte-submissions/dyte-vit-2022-siddharth0600#readme",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "chalk": "^4.1.2",
+    "commander": "^9.3.0",
+    "conf": "^10.1.2",
+    "csv-parse": "^5.1.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.1",
+    "git-clone": "^0.2.0"
+  },
+  "bin": {
+    "vedater": "./index.js"
+  }
+}
